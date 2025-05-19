@@ -1,0 +1,28 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# SQLite database file
+*.sqlite
+*.sqlite-journal
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env
+
+# Swagger generated files (if any)
+swagger-output.json
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
+*.swp
