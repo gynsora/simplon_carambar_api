@@ -5,7 +5,6 @@ yarn-debug.log*
 yarn-error.log*
 
 # SQLite database file
-*.sqlite
 *.sqlite-journal
 
 # Logs
