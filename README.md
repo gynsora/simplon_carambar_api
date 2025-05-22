@@ -3,6 +3,13 @@
 Une API RESTful en Node.js pour gérer une collection de blagues, avec stockage en base SQLite, documentation Swagger et ORM Sequelize.
 
 ---
+##  lien utile
+
+|             URL                            | Description                       |
+| ------------------------------------------:| ----------------------------------|
+|`https://simplon-carambar-api.onrender.com` | Liste vers l'API  mis en ligne    |
+
+---
 ##  Endpoint principaux
 
 | Méthode |            URL    | Description                       |
