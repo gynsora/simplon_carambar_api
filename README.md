@@ -11,7 +11,7 @@ Une API RESTful en Node.js pour gérer une collection de blagues, avec stockage 
 |     GET | `/blagues/random` | Obtenir une blague par au hasard  |
 |     GET |    `/blagues/:id` | Obtenir une blague par ID         |
 |    POST |        `/blagues` | Ajouter une nouvelle blague       |
-|    GET  |       `/api-docs` | Tester l'api                      |
+|    GET  |       `/api-docs` | Tester l'api avec SWAGGER         |
 
 ---
 
